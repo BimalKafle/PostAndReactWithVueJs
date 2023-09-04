@@ -6,7 +6,7 @@
         <Navbar/>
       </div>
       <div class="flex">
-        <div class=" w-1/6 h-max-fit bg-black opacity-75 ">
+        <div class=" w-1/6 h-max-fit bg-black opacity-75 " >
          <Sidebar/>
         </div>
         <div class="w-5/6  h-screen overflow-auto m-4 no-scrollbar">
